@@ -1,3 +1,5 @@
-# My Awesome Book
+# Фазер 2.6.1
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Вольный перевод официальной документации Phaser 2.6.1 - фреймворка для создания игр на HTML5
+
+Автор - Черкасов Евгений (eacherkasov@ya.ru / vk.com/stipjey)
